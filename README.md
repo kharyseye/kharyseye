@@ -1,5 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khary  Fullstack JAVA developer 
-i'm a software engineer and passionate about JAVA  
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khary, i'm a software engineer and passionate about JAVA  
 * 🌍  I'm based in Dakar Sénégal
 * ✉️  You can contact me at [mamekharyseye380@gmail.com](mailto:mamekharyseye380@gmail.com)
 * 🧠  I'm learning SpringBoot
