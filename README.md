@@ -1,4 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khary =============================================================================================================================  Fullstack JAVA developer ------------------------  i'm a software engineer and passionate about JAVA  * 🌍  I'm based in Dakar Sénégal * ✉️  You can contact me at [mamekharyseye380@gmail.com](mailto:mamekharyseye380@gmail.com) * 🧠  I'm learning SpringBoot * 🤝  I'm open to collaborating on Projects * ⚡  I'm a Warrior, Tell Everyone.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khary  Fullstack JAVA developer 
+i'm a software engineer and passionate about JAVA  
+* 🌍  I'm based in Dakar Sénégal
+* ✉️  You can contact me at [mamekharyseye380@gmail.com](mailto:mamekharyseye380@gmail.com)
+* 🧠  I'm learning SpringBoot
+* 🤝  I'm open to collaborating on Projects
+* ⚡  I'm a Warrior, Tell Everyone.
 
 <a href="https://www.github.com/kharyseye" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/kharyseye?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
 ### Skills  
